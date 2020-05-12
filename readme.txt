@@ -2,4 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-本地同步到远程：git push origin master
+鏈湴鍚屾鍒拌繙绋嬶細git push origin master
